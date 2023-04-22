@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @munaxe
+- 👋 Hi, I’m @Munaxxe
 - 👀 I’m interested in Coding and Electronics
 - 🌱 I’m currently studying Electronics Engineering
 - 💞️ I’m looking to collaborate on web design and electronics projects
