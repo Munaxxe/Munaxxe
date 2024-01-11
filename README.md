@@ -3,7 +3,7 @@
 - 🌱 I studied Electronics Engineering with majors in Industrial Electronics
 - 💞️ I’m always open to collaborate on Web design, AI and Electronics projects
 - 📫 How to reach me jojomunashe@gmail.com, WhatsApp: +263784600988
-- 
+
 
 <!---
 munaxe/munaxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
