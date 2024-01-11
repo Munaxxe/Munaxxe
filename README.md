@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Munaxxe
 - 👀 I’m interested in Coding and Electronics
-- 🌱 I’m currently studying Electronics Engineering
-- 💞️ I’m looking to collaborate on web design and electronics projects
-- 📫 How to reach me jojomunashe@gmail.com
+- 🌱 I studied Electronics Engineering with majors in Industrial Electronics
+- 💞️ I’m always open to collaborate on Web design, AI and Electronics projects
+- 📫 How to reach me jojomunashe@gmail.com, WhatsApp: +263784600988
+- 
 
 <!---
 munaxe/munaxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
