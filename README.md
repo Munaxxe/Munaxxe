@@ -23,16 +23,6 @@
 
 </div>
 
-```text
-$ ./munaxxe --init
-INITIALIZING MUNAXXE...
-
-MUNASHE WALTER JOJO
-INDUSTRIAL ELECTRONICS ENGINEER
-
-ENGINEER // BUILDER // INNOVATOR
-```
-
 > *Bridging electronics, mechanical design, software and intelligent systems to turn ideas into practical solutions.*
 
 ---
@@ -113,36 +103,36 @@ electronics · embedded · automation · CAD · software · IoT · renewable ene
 [![JavaScript](https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=89CFF0)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML-141414?style=flat-square&logo=html5&logoColor=89CFF0)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-141414?style=flat-square&logo=css3&logoColor=89CFF0)](https://developer.mozilla.org/docs/Web/CSS)
-[![Assembly](https://img.shields.io/badge/Assembly-141414?style=flat-square)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Assembly](https://img.shields.io/badge/Assembly-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIxNCIgeT0iMTQiIHdpZHRoPSI0IiBoZWlnaHQ9IjYiIHJ4PSIyIi8%2BPHJlY3QgeD0iNiIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iNiIgcng9IjIiLz48cGF0aCBkPSJNNiAyMGg0Ii8%2BPHBhdGggZD0iTTE0IDEwaDQiLz48cGF0aCBkPSJNNiAxNGgydjYiLz48cGF0aCBkPSJNMTQgNGgydjYiLz48L3N2Zz4%3D)](https://en.wikipedia.org/wiki/Assembly_language)
 
 **Embedded Systems**<br>
 [![Arduino](https://img.shields.io/badge/Arduino-141414?style=flat-square&logo=arduino&logoColor=89CFF0)](https://www.arduino.cc)
 [![ESP32](https://img.shields.io/badge/ESP32-89CFF0?style=flat-square&logo=espressif&logoColor=080808)](https://www.espressif.com/en/products/socs/esp32)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-141414?style=flat-square&logo=raspberrypi&logoColor=89CFF0)](https://www.raspberrypi.com)
-[![MikroC](https://img.shields.io/badge/MikroC-141414?style=flat-square)](https://www.mikroe.com/mikroc)
+[![MikroC](https://img.shields.io/badge/MikroC-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJtMTYgMTggNi02LTYtNiIvPjxwYXRoIGQ9Im04IDYtNiA2IDYgNiIvPjwvc3ZnPg%3D%3D)](https://www.mikroe.com/mikroc)
 
 **CAD &amp; Design**<br>
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-89CFF0?style=flat-square&logo=solidworks&logoColor=080808)](https://www.solidworks.com)
-[![3D Modelling](https://img.shields.io/badge/3D_Modelling-141414?style=flat-square)](#design)
-[![Mechanical Design](https://img.shields.io/badge/Mechanical_Design-141414?style=flat-square)](#design)
+[![3D Modelling](https://img.shields.io/badge/3D_Modelling-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjEgOGEyIDIgMCAwIDAtMS0xLjczbC03LTRhMiAyIDAgMCAwLTIgMGwtNyA0QTIgMiAwIDAgMCAzIDh2OGEyIDIgMCAwIDAgMSAxLjczbDcgNGEyIDIgMCAwIDAgMiAwbDctNEEyIDIgMCAwIDAgMjEgMTZaIi8%2BPHBhdGggZD0ibTMuMyA3IDguNyA1IDguNy01Ii8%2BPHBhdGggZD0iTTEyIDIyVjEyIi8%2BPC9zdmc%2B)](#design)
+[![Mechanical Design](https://img.shields.io/badge/Mechanical_Design-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTEgMTAuMjcgNyAzLjM0Ii8%2BPHBhdGggZD0ibTExIDEzLjczLTQgNi45MyIvPjxwYXRoIGQ9Ik0xMiAyMnYtMiIvPjxwYXRoIGQ9Ik0xMiAydjIiLz48cGF0aCBkPSJNMTQgMTJoOCIvPjxwYXRoIGQ9Im0xNyAyMC42Ni0xLTEuNzMiLz48cGF0aCBkPSJtMTcgMy4zNC0xIDEuNzMiLz48cGF0aCBkPSJNMiAxMmgyIi8%2BPHBhdGggZD0ibTIwLjY2IDE3LTEuNzMtMSIvPjxwYXRoIGQ9Im0yMC42NiA3LTEuNzMgMSIvPjxwYXRoIGQ9Im0zLjM0IDE3IDEuNzMtMSIvPjxwYXRoIGQ9Im0zLjM0IDcgMS43MyAxIi8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjgiLz48L3N2Zz4%3D)](#design)
 
 **Automation**<br>
-[![PLCs](https://img.shields.io/badge/PLCs-89CFF0?style=flat-square)](https://en.wikipedia.org/wiki/Programmable_logic_controller)
-[![Industrial Control](https://img.shields.io/badge/Industrial_Control-141414?style=flat-square)](https://en.wikipedia.org/wiki/Industrial_control_system)
-[![Instrumentation](https://img.shields.io/badge/Instrumentation-141414?style=flat-square)](https://en.wikipedia.org/wiki/Instrumentation)
+[![PLCs](https://img.shields.io/badge/PLCs-89CFF0?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwODA4MDgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMjB2MiIvPjxwYXRoIGQ9Ik0xMiAydjIiLz48cGF0aCBkPSJNMTcgMjB2MiIvPjxwYXRoIGQ9Ik0xNyAydjIiLz48cGF0aCBkPSJNMiAxMmgyIi8%2BPHBhdGggZD0iTTIgMTdoMiIvPjxwYXRoIGQ9Ik0yIDdoMiIvPjxwYXRoIGQ9Ik0yMCAxMmgyIi8%2BPHBhdGggZD0iTTIwIDE3aDIiLz48cGF0aCBkPSJNMjAgN2gyIi8%2BPHBhdGggZD0iTTcgMjB2MiIvPjxwYXRoIGQ9Ik03IDJ2MiIvPjxyZWN0IHg9IjQiIHk9IjQiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgcng9IjIiLz48cmVjdCB4PSI4IiB5PSI4IiB3aWR0aD0iOCIgaGVpZ2h0PSI4IiByeD0iMSIvPjwvc3ZnPg%3D%3D)](https://en.wikipedia.org/wiki/Programmable_logic_controller)
+[![Industrial Control](https://img.shields.io/badge/Industrial_Control-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTAgNUgzIi8%2BPHBhdGggZD0iTTEyIDE5SDMiLz48cGF0aCBkPSJNMTQgM3Y0Ii8%2BPHBhdGggZD0iTTE2IDE3djQiLz48cGF0aCBkPSJNMjEgMTJoLTkiLz48cGF0aCBkPSJNMjEgMTloLTUiLz48cGF0aCBkPSJNMjEgNWgtNyIvPjxwYXRoIGQ9Ik04IDEwdjQiLz48cGF0aCBkPSJNOCAxMkgzIi8%2BPC9zdmc%2B)](https://en.wikipedia.org/wiki/Industrial_control_system)
+[![Instrumentation](https://img.shields.io/badge/Instrumentation-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJtMTIgMTQgNC00Ii8%2BPHBhdGggZD0iTTMuMzQgMTlhMTAgMTAgMCAxIDEgMTcuMzIgMCIvPjwvc3ZnPg%3D%3D)](https://en.wikipedia.org/wiki/Instrumentation)
 
 **Software Development**<br>
 [![Git](https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=89CFF0)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=89CFF0)](https://github.com/munaxxe)
-[![Web Development](https://img.shields.io/badge/Web_Development-141414?style=flat-square)](#projects)
-[![APIs](https://img.shields.io/badge/APIs-141414?style=flat-square)](https://en.wikipedia.org/wiki/API)
+[![Web Development](https://img.shields.io/badge/Web_Development-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0xMiAyYTE0LjUgMTQuNSAwIDAgMCAwIDIwIDE0LjUgMTQuNSAwIDAgMCAwLTIwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48L3N2Zz4%3D)](#projects)
+[![APIs](https://img.shields.io/badge/APIs-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTggMTYuOThoLTUuOTljLTEuMSAwLTEuOTUuOTQtMi40OCAxLjlBNCA0IDAgMCAxIDIgMTdjLjAxLS43LjItMS40LjU3LTIiLz48cGF0aCBkPSJtNiAxNyAzLjEzLTUuNzhjLjUzLS45Ny4xLTIuMTgtLjUtMy4xYTQgNCAwIDEgMSA2Ljg5LTQuMDYiLz48cGF0aCBkPSJtMTIgNiAzLjEzIDUuNzNDMTUuNjYgMTIuNyAxNi45IDEzIDE4IDEzYTQgNCAwIDAgMSAwIDgiLz48L3N2Zz4%3D)](https://en.wikipedia.org/wiki/API)
 
 **Engineering**<br>
-[![Electronics](https://img.shields.io/badge/Electronics-141414?style=flat-square)](#projects)
-[![Circuit Design](https://img.shields.io/badge/Circuit_Design-141414?style=flat-square)](#projects)
-[![Electrical Systems](https://img.shields.io/badge/Electrical_Systems-141414?style=flat-square)](#engineering)
-[![IoT](https://img.shields.io/badge/IoT-141414?style=flat-square)](#building)
-[![Solar Systems](https://img.shields.io/badge/Solar_Systems-141414?style=flat-square)](#engineering)
+[![Electronics](https://img.shields.io/badge/Electronics-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTAgMTJoNCIvPjxwYXRoIGQ9Ik0xMCAxN2g0Ii8%2BPHBhdGggZD0iTTEwIDdoNCIvPjxwYXRoIGQ9Ik0xOCAxMmgyIi8%2BPHBhdGggZD0iTTE4IDE4aDIiLz48cGF0aCBkPSJNMTggNmgyIi8%2BPHBhdGggZD0iTTQgMTJoMiIvPjxwYXRoIGQ9Ik00IDE4aDIiLz48cGF0aCBkPSJNNCA2aDIiLz48cmVjdCB4PSI2IiB5PSIyIiB3aWR0aD0iMTIiIGhlaWdodD0iMjAiIHJ4PSIyIi8%2BPC9zdmc%2B)](#projects)
+[![Circuit Design](https://img.shields.io/badge/Circuit_Design-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8%2BPHBhdGggZD0iTTExIDloNGEyIDIgMCAwIDAgMi0yVjMiLz48Y2lyY2xlIGN4PSI5IiBjeT0iOSIgcj0iMiIvPjxwYXRoIGQ9Ik03IDIxdi00YTIgMiAwIDAgMSAyLTJoNCIvPjxjaXJjbGUgY3g9IjE1IiBjeT0iMTUiIHI9IjIiLz48L3N2Zz4%3D)](#projects)
+[![Electrical Systems](https://img.shields.io/badge/Electrical_Systems-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTUuOTE0IDRhMS41IDEuNSAwIDAwLTIuNDc0LTEuNTYxbC05IDlBMS41IDEuNSAwIDAwNS41IDE0aDQuMDAyYS41LjUgMCAwMS40NzEuNjY2TDguMDg2IDIwYTEuNSAxLjUgMCAwMDIuNDc1IDEuNTZsOS05QTEuNSAxLjUgMCAwMDE4LjUgMTBoLTMuOTk3YS41LjUgMCAwMS0uNDcyLS42Njd6Ii8%2BPC9zdmc%2B)](#engineering)
+[![IoT](https://img.shields.io/badge/IoT-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMjBoLjAxIi8%2BPHBhdGggZD0iTTIgOC44MmExNSAxNSAwIDAgMSAyMCAwIi8%2BPHBhdGggZD0iTTUgMTIuODU5YTEwIDEwIDAgMCAxIDE0IDAiLz48cGF0aCBkPSJNOC41IDE2LjQyOWE1IDUgMCAwIDEgNyAwIi8%2BPC9zdmc%2B)](#building)
+[![Solar Systems](https://img.shields.io/badge/Solar_Systems-141414?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4OUNGRjAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ii8%2BPHBhdGggZD0iTTEyIDJ2MiIvPjxwYXRoIGQ9Ik0xMiAyMHYyIi8%2BPHBhdGggZD0ibTQuOTMgNC45MyAxLjQxIDEuNDEiLz48cGF0aCBkPSJtMTcuNjYgMTcuNjYgMS40MSAxLjQxIi8%2BPHBhdGggZD0iTTIgMTJoMiIvPjxwYXRoIGQ9Ik0yMCAxMmgyIi8%2BPHBhdGggZD0ibTYuMzQgMTcuNjYtMS40MSAxLjQxIi8%2BPHBhdGggZD0ibTE5LjA3IDQuOTMtMS40MSAxLjQxIi8%2BPC9zdmc%2B)](#engineering)
 
 ---
 
